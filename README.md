@@ -1,4 +1,3 @@
 # Memory-Maze
 
-# Collaborators: Hana Aariff
-#                Maribel Ocaranza
+# Collaborators: Hana Aariff, Maribel Ocaranza, Maya Letona
